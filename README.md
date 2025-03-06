@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Applying what I learn to real-world applications
 <!--
 **divarnold/divarnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
